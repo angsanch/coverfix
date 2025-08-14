@@ -1,4 +1,4 @@
-# YTM Cover Fix
+# [YTM Cover Fix](https://addons.mozilla.org/firefox/addon/ytm-cover-fix/)
 
 Firefox extension made to fix the display error of song covers on Youtube Music.
 
